@@ -636,7 +636,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 22254,
+    "fileSize": 23255,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -646,7 +646,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "DiziWatch",
     "description": "Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziWatch.cs3",
