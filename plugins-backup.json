@@ -515,10 +515,10 @@
         "name": "Dizilla"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimag.pro&size=32",
+        "iconUrl": "https://dizimag.me/uploads/logo/original/logo-5063.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 29551,
+        "fileSize": 29552,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -527,14 +527,14 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "DiziMag",
         "description": "En son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri DiziMag fark\u0131yla full hd 1080p kalitede izle. Dizimag Geni\u015f ve g\u00fcncel ar\u015fiviyle dizi ve filmlerin tad\u0131n\u0131 \u00e7\u0131kart\u0131n.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMag.cs3",
         "name": "DiziMag"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 30394,
@@ -546,7 +546,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 25,
+        "version": 26,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMom.cs3",
@@ -1397,11 +1397,11 @@
         "name": "YeniWatch"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
-        "jarFileSize": 76886,
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
+        "jarFileSize": 76378,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15971,
+        "fileSize": 15876,
         "status": 1,
         "language": "en",
         "authors": [
@@ -1411,7 +1411,7 @@
             "Movie",
             "Torrent"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "YTS",
         "jarUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YTS.jar",
         "description": "YTS Movies 4K Support (Torrent)",
