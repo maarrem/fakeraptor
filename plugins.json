@@ -871,25 +871,6 @@
     "name": "GinikoCanli"
   },
   {
-    "iconUrl": "https://hdfilm.cx/apple-touch-icon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 34293,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 18,
-    "internalName": "HDFilm",
-    "description": "Hdfilm.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilm.cs3",
-    "name": "HDFilm"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
